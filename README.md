@@ -1,4 +1,4 @@
-# CRDT Card Detection
+# Credit Card Detection
 
 ## Overview
 
